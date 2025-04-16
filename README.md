@@ -1,2 +1,2 @@
 # Veridion-company-classifier
-I upload also the code with the encoder model, even though it's noy functional.
+I also uploaded the code with the encoder model, even though it's not functional.
